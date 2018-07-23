@@ -1,3 +1,4 @@
+# Raspberry Pi + Yocto + LoRa
 # recipes-lora
 Yocto recipe to build and install https://github.com/Lora-net/lora_gateway package into Yocto image.
 
@@ -86,7 +87,9 @@ To build:
 
 Reference Links:
 https://git.yoctoproject.org/cgit.cgi/meta-raspberrypi/about/
+
 https://github.com/Lora-net/lora_gateway
+
 https://webshop.ideetron.nl/Files/3/1000/1211/Attachments/Product/9Sl3U5tf7B238WGCZ1V7PRmw2768t90K.pdf
 
 	
